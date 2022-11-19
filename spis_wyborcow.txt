@@ -1,0 +1,1 @@
+SELECT nr_indeksu, imie, nazwisko FROM wyborcy
